@@ -29,7 +29,7 @@ And that's how I got my motivation. In terms of inspiration of what meme templat
 
 This meme, really takes me back to the moment of panic and frustration. However, I can definetley say that I made it! 
 
-
+I believe this meme is an semi-orginal meme with some inspiration and adaptation, as I utilised two well-known memes together to create a new one - which hasn't been done before. The main format of this meme is an adaptation of the [Drake meme.](https://www.google.com/url?sa=i&url=https%3A%2F%2Finspirationfeed.com%2Fdrake-memes%2F&psig=AOvVaw1_854WGehso3ora5yB1nAh&ust=1647855874033000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPjV79Gz1PYCFQAAAAAdAAAAABAD)
 
 
 
