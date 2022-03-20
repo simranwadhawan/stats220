@@ -33,8 +33,7 @@ early to avoid errors",
 spongebob <- image_read("https://i.pinimg.com/originals/b9/3d/11/b93d1136472184899cfc5052a3991658.png")%>%
   image_scale(300)%>%
   image_annotate(text = "sTaRt ThE STATS220 
-aSsiGnMeNt a wEeK bEfoRe
-    tHe dUe dAtE",
+aSsiGnMeNt eArlY to aVoiD eRrorS",
                  color="#000000",
                  size=15,
                  font="Times",
@@ -62,11 +61,10 @@ Dog <- image_read("https://www.meme-arsenal.com/memes/2a2d80ff28c191d6edf13c1b58
                  size=25,
                  font="Times",
                  gravity = "North")%>%
-  image_annotate(text = "Magick Package 
-not loading",
+  image_annotate(text = "Error: Could not find Magick Package",
                  color="#FF0015",
                  boxcolor = "#F9A631",
-                 size=16,
+                 size=19,
                  font="times",
                  gravity = "southwest")
 
@@ -85,4 +83,5 @@ meme<-c(first_row, second_row)%>%
 meme
 
 image_write(meme, "my_meme.png")
+
 ```
