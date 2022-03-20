@@ -1,5 +1,22 @@
 # Welcome to Simran's STATS220 Repository!
 
+You can read more about me [here!](https://github.com/simranwadhawan/stats220/blob/main/README.md)
+
+## Here's the meme I made for Part A of Assignment 1:
+![](my_meme.png)
+
+
+I made this meme using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+
+
+
+
+
+### The motivation and inspiration behind the meme:
+
+
+
+This meme is based on a real life story (AKA mine). 
 
 
 
@@ -9,12 +26,7 @@
 
 
 
-
-
-
-
-
-## My R Code for My Meme!
+### My R Code for My Meme!
 ```
 library(magick)
 #Blank Square one
