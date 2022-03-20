@@ -1,8 +1,10 @@
 # *✨Welcome to Simran's STATS220 Repository!✨*
 
-You can read more about me [*here!*](https://github.com/simranwadhawan/stats220/blob/main/README.md)
+- You can read more about me [*here!*](https://github.com/simranwadhawan/stats220/blob/main/README.md)
+- Feel free to explore my GitHub [*here!*](https://github.com/simranwadhawan/stats220)
+- This website will showcase my orginal meme that I created for Part A of Assignment 1 for STATS220
 
-## ✨Here's the meme I made for Part A of Assignment 1✨:
+## ✨Here's the meme I made✨:
 ![](my_meme.png)
 
 
@@ -12,7 +14,7 @@ I made this meme using the R package [{magick}](https://cran.r-project.org/web/p
 
 
 
-## ✨The motivation and inspiration behind the meme✨:
+## ✨The motivation/inspiration behind the meme✨:
 
 
 
