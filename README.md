@@ -17,3 +17,5 @@ I am a student studying a BCom/BSc Conjoint at the University of Auckland!
 * **Thai**
   * *Green Curry*
   * *Pad Thai*
+* **Mexican**
+  * *Nachos*
