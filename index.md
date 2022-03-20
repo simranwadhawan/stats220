@@ -12,7 +12,7 @@ I made this meme using the R package [{magick}](https://cran.r-project.org/web/p
 
 
 
-### The motivation and inspiration behind the meme:
+## The motivation and inspiration behind the meme:
 
 
 
@@ -26,7 +26,7 @@ This meme is based on a real life story (AKA mine).
 
 
 
-### My R Code for My Meme!
+## My R Code for My Meme!
 ```
 library(magick)
 #Blank Square one
