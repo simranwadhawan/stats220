@@ -1,4 +1,4 @@
-## Welcome to Simran's STATS220 Repository!
+# Welcome to Simran's STATS220 Repository!
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-# My R Code for 
+## My R Code for My Meme!
 ```
 library(magick)
 #Blank Square one
