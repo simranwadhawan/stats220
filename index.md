@@ -16,16 +16,16 @@ I made this meme using the R package [{magick}](https://cran.r-project.org/web/p
 
 ## ✨The motivation/inspiration behind the meme✨:
 
-This meme is based on a real life story (AKA mine) and there are a couple of reasons why I wanted to showcase this.
-I was unfortunately busy with my other assignments and quizzes, thus, I thought I would give Assignment 1 of STATS220 on Sunday (A day before the due date). I was pretty confident that I knew my stuff and started my amazing sunday with the assignment. However, I kept getting errors when I tried creating my meme - especially with magick function [image_annotate()]. I started stressing out and I couldn't find any way out!
+This meme is based on a real life story (AKA mine), and there are a couple of reasons why I wanted to showcase this.
+Unfortunately, I was very busy with my other assignments and quizzes last week, therefore, I thought I would give Assignment 1 of STATS220 on Sunday (A day before the due date). I was pretty confident that my code would work seamlessly, so I started my amazing sunday with the assignment. However, I kept getting errors when I tried creating my meme - especially with magick function [image_annotate()]. I started stressing out, as I thought that I was the only person haing this issue and it's too late for anyone to help me. I was in a state of panic and I couldn't find any way out!
 
-Eventually, I thought of going on to the ED Discussion board, only to see that mutliple people were having this issue (especially those with Macs) - which was relieving! Hence, I had to use R Studio Cloud for my Assignment. 
+Eventually, I thought of going on to the ED Discussion board, only to see that mutliple people were having this issue (especially those with Macs) - which was relieving! Hence, I had to use R Studio Cloud for my Assignment - as per Anna's advice. 
 
-Now that my code was working, I thought, why not explain/convey what I just went through (an emotional rollercoaster) than a meme - there's no better way!
+Now that my code was working, I thought, why not explain/convey what I just went through (an emotional rollercoaster) with a meme - there's no better way!
 
 And that's how I got my motivation. In terms of inspiration of what meme templates and characters to choose from, that was easy.
 1. I first thought of who and which meme would be the perfect visual example to show how confident I was that 1 day would be enough for the assignment - obviously my favourite "mocking spongebob" meme! 
-2. I then had to think of another character/meme that perfectly showed my regret and feelings in the exact moment where I thought I did a big mistake by not starting early and resolving any issues that I arised - I just knew that the burning dog would be the perfect example.
+2. I then had to think of another character/meme that perfectly showed my regret and feelings in the exact moment where I realised I made a big mistake by not starting early and resolving any issues that may arise- I just knew that the burning dog would be the perfect example.
 
 This meme, really takes me back to the moment of panic and frustration. However, I can definetley say that I made it! 
 
